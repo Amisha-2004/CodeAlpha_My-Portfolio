@@ -5,6 +5,6 @@ It highlights our projects, skills, and background, providing potential employer
 
 
 LANGUAGES USED : 
-HTNL, 
+HTML, 
 CSS,
 JavaScript
